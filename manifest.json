@@ -6,11 +6,12 @@
   "background_color": "#1a1a2e",
   "theme_color": "#00d2ff",
   "icons": [
-    {
-      "src": "https://cdn-icons-png.flaticon.com/512/2344/2344132.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
+  {
+    "src": "icon.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "purpose": "any maskable"
+  }
+]
+
 }
